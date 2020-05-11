@@ -1,0 +1,16 @@
+
+.login-form-block{
+    max-width: 300px;
+    width: fit-content;
+}
+.login-form-block button{
+    width: 100%;
+    padding: 15px 20px;
+}
+
+@media(min-width:767px){
+    .login-form-block{
+        max-width: 450px;
+        width: 450px;
+    }
+}
