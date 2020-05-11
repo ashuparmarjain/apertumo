@@ -156,7 +156,7 @@ class Users extends React.Component {
                         <p>No users found.</p>
                     </div>}
                     <footer>
-                        View source code on <a target="_blank" href="/">github</a>
+                        View source code on <a target="_blank" href="https://github.com/ashuparmarjain/apertumo">github</a>
                     </footer>
                 </div>
             </div>
